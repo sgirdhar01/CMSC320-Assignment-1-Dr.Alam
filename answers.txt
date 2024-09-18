@@ -11,4 +11,6 @@ Answer: [Data science can be used in Economics. It can be used to predict the am
 Q3: What is the difference between merging and rebasing?
 
 Answer: [Merging is a safer option that keeps the entire history, while rebasing creates a linear history by moving your non-main  branch onto the main branch .]
+Q4: What skills do you hope to improve during this course?
 
+Answer: [Improve my understanding Big Data, and how it could be used to solve problems]
