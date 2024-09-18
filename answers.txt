@@ -6,3 +6,9 @@ Answer: [Sharing Code, Version control]
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: [Data science can be used in Economics. It can be used to predict the amount of time it will take banks to cut rates after the fed cut federal rates. People can use this to know if they should put there money in a cd or a savings account.]
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: [Merging is a safer option that keeps the entire history, while rebasing creates a linear history by moving your non-main  branch onto the main branch .]
+
